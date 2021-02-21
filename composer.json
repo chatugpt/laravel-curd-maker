@@ -1,0 +1,24 @@
+{
+	"name" : "happyxlq/laravel-curd-maker",
+	"description" : "laravel  curd auto maker",
+	"keywords" : [
+		"laravel",
+		"curd"
+	],
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "lennon",
+			"email" : "heiman8@qq.com"
+		}
+	],
+	"require" : {
+		"php" : ">=7.2.0"
+	},
+	"autoload" : {
+		"psr-4" : {
+			"Le2le\\Maker\\" : "src/"
+		}
+	},
+	"minimum-stability" : "dev",
+	"prefer-stable" : true
+}
