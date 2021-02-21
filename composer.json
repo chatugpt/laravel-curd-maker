@@ -1,8 +1,9 @@
 {
-	"name" : "happyxlq/laravel-curd-maker",
-	"description" : "laravel  curd auto maker",
+	"name" : "le2le/laravel-curd-make",
+	"description" : "laravel lumen  curd auto maker",
 	"keywords" : [
 		"laravel",
+		"lumen",
 		"curd"
 	],
 	"license" : "MIT",
@@ -12,7 +13,7 @@
 		}
 	],
 	"require" : {
-		"php" : ">=7.2.0"
+		"php" : "^7.2.5|^8.0"
 	},
 	"autoload" : {
 		"psr-4" : {
